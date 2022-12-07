@@ -1,4 +1,7 @@
 // RANGE SUM OF BST - 7 DECEMBER 2022
+
+// TIME COMPLEXITY:- O(N)
+// SPACE COMPLEXITY:- O(N)---- recursion(auxiliary stack space)
 /*
 
 class Solution {
